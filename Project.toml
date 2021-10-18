@@ -1,0 +1,13 @@
+name = "TriplePendulums"
+uuid = "50d962a5-9052-4f61-9403-f631d02a731e"
+authors = ["Lilith Orion Hafner <lilithhafner@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
